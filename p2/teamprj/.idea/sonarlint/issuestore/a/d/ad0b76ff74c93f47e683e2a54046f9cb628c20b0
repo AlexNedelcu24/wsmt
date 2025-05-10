@@ -1,0 +1,18 @@
+
+i
+java:S1452/"&Remove usage of generic wildcard type.(˜¶Í8²°»ë2J$b521fe9d-db3b-4eb7-ad33-a676a1f83dad
+n
+java:S14529"&Remove usage of generic wildcard type.(Ñ™ÇÏúÿÿÿÿ8·°»ë2J$741cb55f-378b-421c-b80d-f17c9898ed12
+n
+java:S1452@"&Remove usage of generic wildcard type.(èÌ·şÿÿÿÿ8¹°»ë2J$3f11bb95-45f7-4e26-a184-13246bdb6f8c
+„
+java:S1128"<Remove this unused import 'com.example.library.domain.Book'.(Øâìğşÿÿÿÿ8ÖÀã»ë2J$8f912f0f-253e-4a00-8ac9-ef0d0e8aa27a
+Š
+java:S1128"BRemove this unused import 'com.example.library.mapper.BookMapper'.(ØõñØúÿÿÿÿ8ÖÀã»ë2J$df3cf6f4-6be9-4444-b460-af7b98288e32
+’
+java:S1128
+"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›8ê˜”Íë2J$975c185d-7981-43e6-9ef4-36b48f54b819
+o
+java:S1128"-Remove this unused import 'org.slf4j.Logger'.(íØ®68×ÙŸÍë2J$bfd58c85-5475-4829-8082-0caa8605e042
+w
+java:S1128"4Remove this unused import 'org.slf4j.LoggerFactory'.(–ÿÚŞ8×ÙŸÍë2J$174e421f-4322-4988-a743-2c327334dfa0

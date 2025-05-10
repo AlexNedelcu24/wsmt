@@ -1,0 +1,3 @@
+rootProject.name = 'teamprj'
+include 'library', 'consumer1', 'consumer2'
+
